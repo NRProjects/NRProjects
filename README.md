@@ -2,7 +2,7 @@
 
 **`Software Engineer`**
 
-I am a junior front-end developer with three years of development experience in application and web development. Proficient in Javascript, Typescript, React, Svelte, Java, and C#. Experienced with Git version control and committed to continuous learning and growth in all fields of software development.
+I am a junior developer with three years of experience in application and web development. Proficient in Javascript, Typescript, React, Svelte, Java, and C#. Experienced with Git version control and committed to continuous learning and growth in all fields of software development.
 
 **Visit my [website](https://naterobison.dev) for more information.**
 
