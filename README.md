@@ -2,9 +2,22 @@
 
 **`Software Engineer`**
 
-
+I am a junior front-end developer with three years of development experience in application and web development. Proficient in Javascript, Typescript, React, Svelte, Java, and C#. Experienced with Git version control and committed to continuous learning and growth in all fields of software development.
 
 **Visit my [website](https://naterobison.dev) for more information.**
+
+<p align="left">
+<a href="https://www.linkedin.com/in/nate-robison-a36107217">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:nate@naterobison.dev">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://naterobison.dev">
+  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139">
+</a>
 
 ---
 
