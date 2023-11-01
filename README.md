@@ -1,6 +1,6 @@
 # :computer: Nate Robison
 
-**`Software Engineer`**
+**`Software Engineer, Aspiring Egyptologist`**
 
 I am a junior developer with three years of experience in application and web development. Proficient in Javascript, Typescript, React, Svelte, Java, and C#. Experienced with Git version control and committed to continuous learning and growth in all fields of software development.
 
